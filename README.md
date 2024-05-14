@@ -41,6 +41,8 @@ Carga el código en tu ESP32 o ESP8266 y abre el monitor serie para ver los mens
 
 ![image](https://github.com/ChristopherVelasco03/ProyectoIoT/assets/155390541/4b6ceb3f-7fbf-44e6-aaca-fe37f9e03f8f)
 
+![image](https://github.com/OmarAlvrz/IoT-ESP32/assets/127577075/40bf2704-a60a-423e-9bf0-6a9785475157)
+
 
 ### Comandos del Bot
 
